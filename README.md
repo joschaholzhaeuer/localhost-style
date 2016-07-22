@@ -8,7 +8,8 @@ A custom index.php and CSS styles for your localhost.
 2. Create a folder for each category (e.g. `MAMP/sites/workspace` and `MAMP/sites/personal`)
 3. Rename `index-workspace.php` to `index.php` and copy it once into every folder you created
 4. Open each `index.php` and apply the `active`-class to the current folder/category
-5. Change and add links to the sidebar as you like
+5. Open `index.php` in the root directory and change the redirect link to the folder/category of your choice
+6. Change and add links to the sidebar as you like
 
 ## Notes
 
