@@ -16,7 +16,7 @@
 
             <div class="projekte">
                 <nav class="projekte-nav">
-                    <a href="http://localhost/dreiqbik/" class="projekte-link">DreiQbik</a>
+                    <a href="http://localhost/dreiqbik/" class="projekte-link">Side-Projects</a>
                     <a href="http://localhost/workspace/" class="projekte-link active">Workspace</a>
                     <a href="http://localhost/phpMyAdmin/" class="link-ext"><em>php</em>MyAdmin</a>
                 </nav>
@@ -69,9 +69,6 @@
                         </li>
                         <li class="sites-item">
                             <a href="https://trello.com/login" class="sites-link">Trello<br><span class="sites-link-desc">Login</span></a>
-                        </li>
-                        <li class="sites-item">
-                            <a href="https://kas.all-inkl.com/" class="sites-link">ALL-INKL<br><span class="sites-link-desc">KAS-Server</span></a>
                         </li>
                         <li class="sites-item">
                             <a href="https://developer.wordpress.org/reference/" class="sites-link">Wordpress<br><span class="sites-link-desc">Codex</span></a>

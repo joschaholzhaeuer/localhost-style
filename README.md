@@ -16,4 +16,6 @@ A custom index.php and CSS styles for your localhost.
 * The `vHost`-button only works if you create a virtual host with the same name as the repository
 * The project list always displays the last modified project/folder first
 
+## How it looks
+
 ![Image of Localhost Style](showcase.jpg)
